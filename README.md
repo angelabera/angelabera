@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/angelabera/angelabera/main/banner.png" width="100%" />
+</p>
+
 ## Hi there 👋
 
 <!--
