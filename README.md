@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=36&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=70&lines=🦋+Welcome+to+my+profile+🦋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=48&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%A6%8B+Welcome+to+my+profile+%F0%9F%A6%8B" />
 </p>
+
+
 
 
 <!--
