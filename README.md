@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=36&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=70&lines=🦋+Welcome+to+my+profile+🦋" />
 </p>
+
 
 <!--
 **angelabera/angelabera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
