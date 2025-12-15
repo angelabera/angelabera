@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+profile" />
 </p>
 
+<h1>Angela Bera</h1>
+<p>
+  <i>Computer Science & Engineering Student • Building meaningful digital experiences</i>
+</p>
+
 <!-- BOTTOM WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
