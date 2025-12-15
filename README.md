@@ -20,6 +20,19 @@
 - ✍️ **Writing Poems** — A quiet space where thoughts turn into words.  
 - 🌱 **Learning Something New Every Day** — Whether it’s tech, ideas, or perspectives, growth matters to me.
 
+## 🌍 Open Source & Community
+
+- 🌸 **GirlScript Summer of Code 2025** — Open Source Contributor  
+- 🎃 **Hacktoberfest 2025** — Open Source Contributor & Project Maintainer
+
+<p align="center">
+  <a href="https://holopin.io/@angelabera">
+    <img src="https://holopin.me/angelabera" alt="Holopin badges of Angela Bera"/>
+  </a>
+</p>
+
+<br/>
+
 
 <!-- BOTTOM WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
