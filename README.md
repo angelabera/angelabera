@@ -24,9 +24,9 @@
 
 ## 🌍 Open Source & Community
 
-- 🌸 **GirlScript Summer of Code 2025** — Open Source Contributor
-- 🌐 **Open Source Connect India (OSCI) 2025** — Open Source Contributor  
-- 🎃 **Hacktoberfest 2025** — Open Source Contributor & Project Maintainer
+- **GirlScript Summer of Code 2025** — Open Source Contributor
+- **Open Source Connect India (OSCI) 2025** — Open Source Contributor  
+- **Hacktoberfest 2025** — Open Source Contributor & Project Maintainer
 
 <br>
 <p align="center">
