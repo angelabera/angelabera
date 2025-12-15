@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/angelabera/angelabera/main/banner.png" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+profile" />
 </p>
 
