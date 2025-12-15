@@ -20,9 +20,12 @@
 - ✍️ **Writing Poems** — A quiet space where thoughts turn into words.  
 - 🌱 **Learning Something New Every Day** — Whether it’s tech, ideas, or perspectives, growth matters to me.
 
+<br>
+
 ## 🌍 Open Source & Community
 
-- 🌸 **GirlScript Summer of Code 2025** — Open Source Contributor  
+- 🌸 **GirlScript Summer of Code 2025** — Open Source Contributor
+- 🌐 **Open Source Connect India (OSCI) 2025** — Open Source Contributor  
 - 🎃 **Hacktoberfest 2025** — Open Source Contributor & Project Maintainer
 
 <p align="center">
