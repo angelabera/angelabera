@@ -28,6 +28,7 @@
 - 🌐 **Open Source Connect India (OSCI) 2025** — Open Source Contributor  
 - 🎃 **Hacktoberfest 2025** — Open Source Contributor & Project Maintainer
 
+<br>
 <p align="center">
   <a href="https://holopin.io/@angelabera">
     <img src="https://holopin.me/angelabera" alt="Holopin badges of Angela Bera"/>
