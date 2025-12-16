@@ -7,8 +7,7 @@
 <p>
   <i>Computer Science & Engineering Student • Building meaningful digital experiences</i>
 </p>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,react,nextjs,nodejs,python,dart,flutter,typescript,mongodb,figma,vercel,tailwind,threejs,firebase" />
 
 ## 🌱 About Me
 
@@ -36,6 +35,7 @@
 </p>
 
 <br/>
+
 
 
 <!-- BOTTOM WAVE -->
