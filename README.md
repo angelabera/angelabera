@@ -27,6 +27,7 @@
 - **GirlScript Summer of Code 2025** — Open Source Contributor
 - **Open Source Connect India (OSCI) 2025** — Open Source Contributor  
 - **Hacktoberfest 2025** — Open Source Contributor & Project Maintainer
+- **Social Winter of Code 2026** — Project Admin & Mentor
 
 <br>
 <p align="center">
