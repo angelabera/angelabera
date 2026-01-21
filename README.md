@@ -7,7 +7,7 @@
 <p>
   <i>Computer Science & Engineering Student • Building meaningful digital experiences</i>
 </p>
-<img src="https://skillicons.dev/icons?i=java,python,c,dart,html,css,javascript,react,nextjs,nodejs,typescript,tailwind,mongodb,vercel" />
+<img src="https://skillicons.dev/icons?i=java,python,c,dart,html,css,javascript,react,nextjs,nodejs,typescript,tailwind,mongodb,express" />
 <br>
 
 ## 🌱 About Me
