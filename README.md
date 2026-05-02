@@ -37,28 +37,6 @@ Outside of tech, I value creativity through *design, music, chess, and writing*,
 
 <br/>
 
-## 🚀 Featured Projects
-
-🔹 **[ShareBite](https://github.com/angelabera/ShareBite)**  
-A responsive platform connecting restaurants, households, and NGOs to reduce food waste and fight hunger through real-time food sharing. :contentReference[oaicite:0]{index=0}  
-→ Built with: HTML, CSS, JavaScript  
-→ Focus: Social impact • Real-world usability • Clean UI/UX  
-
----
-
-🔹 **[UniCompass](https://github.com/angelabera/UniCompass)**  
-A full-stack college discovery platform that helps students search, compare, and choose universities through a modern, data-driven experience. :contentReference[oaicite:1]{index=1}  
-→ Built with: TypeScript, Full-stack web technologies  
-→ Focus: Data-driven decisions • Student-centric design  
-
----
-
-🔹 **[Cognivia](https://github.com/angelabera/Cognivia)**  
-A machine learning project that predicts student burnout using academic, behavioral, and lifestyle patterns. :contentReference[oaicite:2]{index=2}  
-→ Built with: Python, Machine Learning  
-→ Focus: AI for mental health • Predictive analytics  
-
----
 
 <!-- BOTTOM WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
