@@ -12,13 +12,12 @@
 
 ## 🌱 About Me
 
-- 💻 **Coding & Development** — I enjoy building meaningful web applications and strengthening my problem-solving skills through consistent practice.  
-- 🎨 **Designing & Art** — I love designing clean, calm, and user-friendly interfaces, with a strong passion for art, aesthetics, and visual expression.  
-- ♟️ **Chess** — Helps me think strategically, stay patient, and approach problems with clarity.  
-- 🎵 **Playing Instruments** — Music keeps me grounded and creative beyond the screen.  
-- 📖 **Reading Fiction** — Stories inspire imagination, empathy, and new perspectives.  
-- ✍️ **Writing Poems** — A quiet space where thoughts turn into words.  
-- 🌱 **Learning Something New Every Day** — Whether it’s tech, ideas, or perspectives, growth matters to me.
+I’m a **Computer Science & Engineering** student passionate about building clean, user-focused web applications and improving my problem-solving skills through consistent practice.
+
+I enjoy blending development with design—creating interfaces that are both functional and intuitive. Currently, I’m exploring modern *web technologies*, along with growing interests in *AI* and *Web3*.
+
+Outside of tech, I value creativity through *design, music, chess, and writing*, which helps me think more clearly and approach problems with a balanced perspective.
+
 
 <br>
 
